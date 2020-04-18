@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>QwProgcessBar.ico</file>
+
+    </qresource>
+</RCC>
